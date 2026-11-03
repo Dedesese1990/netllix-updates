@@ -1,0 +1,10 @@
+{
+  "versionCode": 73,
+  "versionName": "1.0.0-build73",
+  "apk": "https://raw.githubusercontent.com/Dedesese1990/netllix-updates/main/apk/Netllix-build73-32bit.apk",
+  "sha256": "00c89e7c59238e395de2d95972b6997e02e11462cf14ea272c4b596c6c7d82ce",
+  "size": 15186729,
+  "notes": "إصلاح الحركة والرعشة، المنصات، المشغّل والترجمة، البحث، مقاسات القنوات، والتحديث من داخل التطبيق.",
+  "minSdk": 26,
+  "abi": "armeabi-v7a"
+}
