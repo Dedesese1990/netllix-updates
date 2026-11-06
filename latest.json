@@ -1,10 +1,10 @@
 {
-  "versionCode": 81,
-  "versionName": "1.0.0-build81",
-  "apk": "https://raw.githubusercontent.com/Dedesese1990/netllix-updates/main/apk/Netllix-build81-32bit.apk",
-  "sha256": "b1ca9c750af1bf30fbeb27caaaf2309056b68907806bd6bda29666595fef9e8e",
-  "size": 22950374,
-  "notes": "• صفحة المسلسل: صور الممثلين أصغر زي الأفلام.\n• «محتوى ذو صلة» في المسلسلات: الكارت بيكبر وفيه الاسم والسنة والوصف.\n• (من build80) قايمة الأفلام منفصلة عن القنوات، والإمساك في القنوات ثابت، وزرار الجودة «تلقائي»، وإصلاح مستودع Nuvio.",
+  "versionCode": 82,
+  "versionName": "1.0.0-build82",
+  "apk": "https://raw.githubusercontent.com/Dedesese1990/netllix-updates/main/apk/Netllix-build82-32bit.apk",
+  "sha256": "b396d62b83317f3a1d8cec944db8257096f9bc4571ffbf3ef0a28b79755e9c80",
+  "size": 22975766,
+  "notes": "• اللمس للتابلت وشاشة العربية: لمسة تظهر أزرار المشغّل، دوستين تقدّم/ترجّع 10 ث، اسحب على شريط الوقت. في المباشر: لمسة للشريط والقنوات، واسحب لفوق/لتحت تغيّر القناة. التلفزيون زي ما هو.\n• إعدادات إضافات Nuvio (زي cookie بتاع ShowBox): ضغطة مطوّلة على الإضافة اللي عليها ⚙، ومن الموبايل بـQR. القيم متشفّرة.",
   "minSdk": 26,
   "abi": "armeabi-v7a"
 }
