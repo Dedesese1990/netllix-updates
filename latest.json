@@ -1,10 +1,10 @@
 {
-  "versionCode": 80,
-  "versionName": "1.0.0-build80",
-  "apk": "https://raw.githubusercontent.com/Dedesese1990/netllix-updates/main/apk/Netllix-build80-32bit.apk",
-  "sha256": "1b3b2bea318bd00666bb943c07b6a31c2fe3d8cdfff42ebf9eef4e250a437b93",
-  "size": 22949914,
-  "notes": "• قايمة الأفلام منفصلة عن القنوات: الرئيسية بترجع لآخر قايمة أفلام اخترتها.\n• القنوات: الإمساك لتحت/لفوق بقى ثابت والتركيز مابيتوهش.\n• زرار الجودة بيقول «تلقائي» لما يكون تلقائي.\n• رجوع من الفئات بيخرج للرئيسية على طول.\n• القناة الذكية المضمومة بإيدك بتفضل مربوطة بالقوايم التانية.\n• إضافة مستودع Nuvio: طريق بديل لو GitHub مش واصل، ورسالة الخطأ بتقول السبب.",
+  "versionCode": 81,
+  "versionName": "1.0.0-build81",
+  "apk": "https://raw.githubusercontent.com/Dedesese1990/netllix-updates/main/apk/Netllix-build81-32bit.apk",
+  "sha256": "b1ca9c750af1bf30fbeb27caaaf2309056b68907806bd6bda29666595fef9e8e",
+  "size": 22950374,
+  "notes": "• صفحة المسلسل: صور الممثلين أصغر زي الأفلام.\n• «محتوى ذو صلة» في المسلسلات: الكارت بيكبر وفيه الاسم والسنة والوصف.\n• (من build80) قايمة الأفلام منفصلة عن القنوات، والإمساك في القنوات ثابت، وزرار الجودة «تلقائي»، وإصلاح مستودع Nuvio.",
   "minSdk": 26,
   "abi": "armeabi-v7a"
 }
