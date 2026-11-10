@@ -1,10 +1,10 @@
 {
-  "versionCode": 98,
-  "versionName": "1.0.0-build98",
-  "apk": "https://raw.githubusercontent.com/Dedesese1990/netllix-updates/main/apk/Netllix-build98-32bit.apk",
-  "sha256": "6669355a1aa612c0e84c70bacd8963725a1583621c2965c0e1f90d6faa55eb9d",
-  "size": 23522460,
-  "notes": "• تنقّل أسرع وأنعم بين الكروت وفي الإعدادات.\n• الأفلام والمسلسلات تفتح بسرعة من جديد.\n• مصادر IPTV أولًا في التشغيل.\n• البحث بخانة واحدة وكيبورد الجهاز (مع البحث الصوتي).\n• Easynews: كروت أصغر وإصلاح صور المعاينة.\n• الرياضة: الفورمولا 1 وNBA والتنس.\n• شعار العنوان يظهر لكل المصادر.",
+  "versionCode": 99,
+  "versionName": "1.0.0-build99",
+  "apk": "https://raw.githubusercontent.com/Dedesese1990/netllix-updates/main/apk/Netllix-build99-32bit.apk",
+  "sha256": "15653ee56e408062969d3ad8a81a3b4ec0f1017464272ae69f88742527596ef3",
+  "size": 23525564,
+  "notes": "• التابلت: زر الإعدادات وأقسامها تعمل باللمس من القائمة الجانبية.\n• Easynews: صور المعاينة من خادم الصور المباشر، وتشخيص في سجل الأعطال (en_thumb).\n• Easynews: الرجوع من الفيديو لا يطلب الباسورد من جديد.",
   "minSdk": 26,
   "abi": "armeabi-v7a"
 }
