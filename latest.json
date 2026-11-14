@@ -1,10 +1,10 @@
 {
-  "versionCode": 106,
-  "versionName": "1.0.0-build106",
-  "apk": "https://raw.githubusercontent.com/Dedesese1990/netllix-updates/main/apk/Netllix-build106-32bit.apk",
-  "sha256": "93727e0df232b8302335f07475e9a201eebd327d35dec7490f945d00c944b361",
-  "size": 23785580,
-  "notes": "• جديد: «صوت من قناة أخرى» في قائمة الصوت: شغّل صوت قناة ثانية على صورة القناة الحالية، مع مزامنة تلقائية وإمكانية تثبيت الصورة حتى 5 ثوانٍ عند تأخر الصوت.\n• القناة المختارة سابقًا تظهر أولًا في القائمة.\n• رسالة واضحة إذا كان الاشتراك يسمح باتصال واحد فقط.",
+  "versionCode": 107,
+  "versionName": "1.0.0-build107",
+  "apk": "https://raw.githubusercontent.com/Dedesese1990/netllix-updates/main/apk/Netllix-build107-32bit.apk",
+  "sha256": "f4cad4827e4ddd15eaf766c93114537292817767ad32c5acc68deb65e0664422",
+  "size": 23787332,
+  "notes": "• «صوت من قناة أخرى» أصبح في نافذة زر السماعة في شريط البث.\n• السهم لأعلى ينتقل إلى القناة التالية، ولأسفل إلى السابقة.\n• الضغط المطوّل على OK يفتح قائمة الصوت والترجمة.",
   "minSdk": 26,
   "abi": "armeabi-v7a"
 }
