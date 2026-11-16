@@ -1,10 +1,10 @@
 {
-  "versionCode": 107,
-  "versionName": "1.0.0-build107",
-  "apk": "https://raw.githubusercontent.com/Dedesese1990/netllix-updates/main/apk/Netllix-build107-32bit.apk",
-  "sha256": "f4cad4827e4ddd15eaf766c93114537292817767ad32c5acc68deb65e0664422",
-  "size": 23787332,
-  "notes": "• «صوت من قناة أخرى» أصبح في نافذة زر السماعة في شريط البث.\n• السهم لأعلى ينتقل إلى القناة التالية، ولأسفل إلى السابقة.\n• الضغط المطوّل على OK يفتح قائمة الصوت والترجمة.",
+  "versionCode": 108,
+  "versionName": "1.0.0-build108",
+  "apk": "https://raw.githubusercontent.com/Dedesese1990/netllix-updates/main/apk/Netllix-build108-32bit.apk",
+  "sha256": "0bb2f1141c3d55c45ae5b7dec4e7480856c9f1f5e4e820ea12d4e4a482cd72bb",
+  "size": 23810136,
+  "notes": "• لا تظهر لقطة من القناة السابقة عند تقليب القنوات، وحلقة التحميل لا تظهر إلا عند التأخر.\n• تنقّل أنعم في قائمة القنوات والإعدادات: تحديد واحد يتبع الريموت بلا قفز.\n• المعاينة في «تلفزيون مباشر» تعمل للاشتراك ذي الاتصال الواحد.\n• لوحة «صوت من قناة أخرى»: اختيار القائمة، القنوات المحفوظة مع الحذف، وزر «مزامنة تلقائية».",
   "minSdk": 26,
   "abi": "armeabi-v7a"
 }
