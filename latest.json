@@ -1,10 +1,10 @@
 {
-  "versionCode": 109,
-  "versionName": "1.0.0-build109",
-  "apk": "https://raw.githubusercontent.com/Dedesese1990/netllix-updates/main/apk/Netllix-build109-32bit.apk",
-  "sha256": "a4ef06dcb3d7e216c9b4d9c693ed92868ce8e7e0adf281a047abbfdfa781e3c1",
-  "size": 24853669,
-  "notes": "• اسم التطبيق الجديد: AWAM، مع الشعار الجديد.\n• فتح أسرع للقنوات: أصوات القنوات (MP2 وAC3) تُشغَّل الآن في المشغّل الأساسي.\n• تقليب القنوات يتخطى القنوات المتوقفة تلقائيًا.\n• اضغط «رجوع» مطوّلًا للعودة إلى القناة السابقة.\n• تمرير أنعم في قائمة القنوات وحركة أخف في الرئيسية.\n• إصلاح تشغيل قناة خاطئة عند التبديل بين قائمتين فيهما الرقم نفسه.",
+  "versionCode": 110,
+  "versionName": "1.0.0-build110",
+  "apk": "https://raw.githubusercontent.com/Dedesese1990/netllix-updates/main/apk/Netllix-build110-32bit.apk",
+  "sha256": "09a94cda73f41680f8198816f8807e0fe39ba13b967854c9798c3074b17609d1",
+  "size": 24854929,
+  "notes": "• «تلفزيون مباشر» يفتح على آخر قناة شاهدتها مباشرة.\n• «مباريات الآن» تظهر خلال ثانية تقريبًا بدل الانتظار الطويل.\n• أُزيلت علامة «جديد» من «رياضة».",
   "minSdk": 26,
   "abi": "armeabi-v7a"
 }
