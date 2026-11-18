@@ -1,10 +1,10 @@
 {
-  "versionCode": 110,
-  "versionName": "1.0.0-build110",
-  "apk": "https://raw.githubusercontent.com/Dedesese1990/netllix-updates/main/apk/Netllix-build110-32bit.apk",
-  "sha256": "09a94cda73f41680f8198816f8807e0fe39ba13b967854c9798c3074b17609d1",
-  "size": 24854929,
-  "notes": "• «تلفزيون مباشر» يفتح على آخر قناة شاهدتها مباشرة.\n• «مباريات الآن» تظهر خلال ثانية تقريبًا بدل الانتظار الطويل.\n• أُزيلت علامة «جديد» من «رياضة».",
+  "versionCode": 111,
+  "versionName": "1.0.0-build111",
+  "apk": "https://raw.githubusercontent.com/Dedesese1990/netllix-updates/main/apk/Netllix-build111-32bit.apk",
+  "sha256": "eaca31ed827b913e10e966db8a537c829420e51b6493264a9b53eba47cd8148f",
+  "size": 24859981,
+  "notes": "• جديد: «خلفية القنوات» في الإعدادات ← تلفزيون مباشر: اختر لون خلفية شاشة القنوات (الحالي، أسود، كحلي، رمادي فحمي، عنابي، أخضر داكن).",
   "minSdk": 26,
   "abi": "armeabi-v7a"
 }
