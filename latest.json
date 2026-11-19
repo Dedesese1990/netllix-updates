@@ -1,10 +1,10 @@
 {
-  "versionCode": 114,
-  "versionName": "1.0.0-build114",
-  "apk": "https://raw.githubusercontent.com/Dedesese1990/netllix-updates/main/apk/Netllix-build114-32bit.apk",
-  "sha256": "c022ca30888fddbaec6a0336e49e018c1f21151aacea14e22bca8787863a5c77",
-  "size": 24990337,
-  "notes": "شكل AWAM الجديد: صفحات بلا البطاقة الكبيرة تبدأ من «متابعة المشاهدة»، وإعلان داخل البطاقة، وصفوف «لأنك…». قائمة جانبية بنمط Prime أصغر وشفافة. الإعدادات مرتبة في 11 قسمًا والبحث أعلاها. إصلاح تداخلات في الشاشات، ووصف أزرار صفحة الفيلم فوق الزر، والنزول إلى «الكل» في المنصات والأنواع. يشمل كل تحسينات Stream.",
+  "versionCode": 115,
+  "versionName": "1.0.0-build115",
+  "apk": "https://raw.githubusercontent.com/Dedesese1990/netllix-updates/main/apk/Netllix-build115-32bit.apk",
+  "sha256": "b1df95eb2d84b8faed760f407ed3f98322b552d6dc5b9fa0643a12bd0e20e010",
+  "size": 24996469,
+  "notes": "رأس صفحات المنصات والأنواع صار أعلى الصفحة، والأنواع بالاسم فقط. الوصف سطران بعرض الصف. في Stream: التنقل في الحلقات، والصعود إلى القائمة من صفحة الفيلم، وقائمة Stream في كل الصفحات. معلومات «المزيد مثل هذا». إصلاح توقف المشغّل البديل، وظهور نسخ بلا سنة عند تطابق الاسم.",
   "minSdk": 26,
   "abi": "armeabi-v7a"
 }
