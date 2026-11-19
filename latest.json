@@ -1,10 +1,10 @@
 {
-  "versionCode": 115,
-  "versionName": "1.0.0-build115",
-  "apk": "https://raw.githubusercontent.com/Dedesese1990/netllix-updates/main/apk/Netllix-build115-32bit.apk",
-  "sha256": "b1df95eb2d84b8faed760f407ed3f98322b552d6dc5b9fa0643a12bd0e20e010",
-  "size": 24996469,
-  "notes": "رأس صفحات المنصات والأنواع صار أعلى الصفحة، والأنواع بالاسم فقط. الوصف سطران بعرض الصف. في Stream: التنقل في الحلقات، والصعود إلى القائمة من صفحة الفيلم، وقائمة Stream في كل الصفحات. معلومات «المزيد مثل هذا». إصلاح توقف المشغّل البديل، وظهور نسخ بلا سنة عند تطابق الاسم.",
+  "versionCode": 116,
+  "versionName": "1.0.0-build116",
+  "apk": "https://raw.githubusercontent.com/Dedesese1990/netllix-updates/main/apk/Netllix-build116-32bit.apk",
+  "sha256": "1ac792689ed74e5c147278fbb25e201999b988c30f10354b365138a989ade77e",
+  "size": 24999421,
+  "notes": "إخفاء علامات يوتيوب من الإعلانات: الصورة تغطي الإعلان عند التوقف أو التحميل أو النهاية، وتكبير خفيف يقص العنوان والشعار. يشمل كل تحسينات 115.",
   "minSdk": 26,
   "abi": "armeabi-v7a"
 }
