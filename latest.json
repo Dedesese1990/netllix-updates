@@ -1,10 +1,11 @@
 {
-  "versionCode": 112,
-  "versionName": "1.0.0-build112",
+  "versionCode": 114,
+  "versionName": "1.0.0-build114",
   "apk": "https://raw.githubusercontent.com/Dedesese1990/netllix-updates/main/apk/Netllix-build112-32bit.apk",
-  "sha256": "22e092b1982c6d47bf013b54ba46cf4983433e33cbe79ea7549e2201c8af197f",
-  "size": 24916793,
-  "notes": "• جديد: شكل واجهة ثالث «Stream» من الإعدادات ← شكل الواجهة: بطاقة كبيرة للمحتوى المحدد، وصفوف «لأنك أحببت…» من مشاهداتك، وصفحة فيلم جديدة مع طاقم العمل.\n• كل شكل يحفظ مكان القائمة الخاص به عند التبديل بين الأشكال.",
+  "sha256": "c022ca30888fddbaec6a0336e49e018c1f21151aacea14e22bca8787863a5c77",
+  "size": 24990337,
+  "notes": "شكل AWAM الجديد: صفحات بلا البطاقة الكبيرة تبدأ من «متابعة المشاهدة»، وإعلان داخل البطاقة، وصفوف «لأنك…». قائمة جانبية بنمط Prime أصغر وشفافة. الإعدادات مرتبة في 11 قسمًا والبحث أعلاها. إصلاح تداخلات في الشاشات، ووصف أزرار صفحة الفيلم فوق الزر، والنزول إلى «الكل» في المنصات والأنواع. يشمل كل تحسينات Stream.",
   "minSdk": 26,
-  "abi": "armeabi-v7a"
+  "abi": "armeabi-v7a",
+  "url": "https://raw.githubusercontent.com/Dedesese1990/netllix-updates/main/apk/Netllix-build114-32bit.apk"
 }
