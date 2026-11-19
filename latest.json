@@ -1,10 +1,10 @@
 {
-  "versionCode": 116,
-  "versionName": "1.0.0-build116",
-  "apk": "https://raw.githubusercontent.com/Dedesese1990/netllix-updates/main/apk/Netllix-build116-32bit.apk",
-  "sha256": "1ac792689ed74e5c147278fbb25e201999b988c30f10354b365138a989ade77e",
-  "size": 24999421,
-  "notes": "إخفاء علامات يوتيوب من الإعلانات: الصورة تغطي الإعلان عند التوقف أو التحميل أو النهاية، وتكبير خفيف يقص العنوان والشعار. يشمل كل تحسينات 115.",
+  "versionCode": 117,
+  "versionName": "1.0.0-build117",
+  "apk": "https://raw.githubusercontent.com/Dedesese1990/netllix-updates/main/apk/Netllix-build117-32bit.apk",
+  "sha256": "99af08d92d1b23e3b55aee9a8eaceed905c16f5c0ba7f2b5d0245dd087e02fd2",
+  "size": 25000253,
+  "notes": "رأس صفحات المنصات والأنواع صار أعلى الصفحة مباشرة، فيظهر الوصف كاملًا وأول الصف التالي. صفحة المنصة بالشعار فقط. يشمل إخفاء علامات يوتيوب من الإعلانات (116).",
   "minSdk": 26,
   "abi": "armeabi-v7a"
 }
