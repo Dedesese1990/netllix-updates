@@ -1,10 +1,10 @@
 {
-  "versionCode": 117,
-  "versionName": "1.0.0-build117",
-  "apk": "https://raw.githubusercontent.com/Dedesese1990/netllix-updates/main/apk/Netllix-build117-32bit.apk",
-  "sha256": "99af08d92d1b23e3b55aee9a8eaceed905c16f5c0ba7f2b5d0245dd087e02fd2",
-  "size": 25000253,
-  "notes": "رأس صفحات المنصات والأنواع صار أعلى الصفحة مباشرة، فيظهر الوصف كاملًا وأول الصف التالي. صفحة المنصة بالشعار فقط. يشمل إخفاء علامات يوتيوب من الإعلانات (116).",
+  "versionCode": 118,
+  "versionName": "1.0.0-build118",
+  "apk": "https://raw.githubusercontent.com/Dedesese1990/netllix-updates/main/apk/Netllix-build118-32bit.apk",
+  "sha256": "40a842e8dd3cb0e2c593c9823e58d9bac4dbf0114c332b90046750c98a5e9e1e",
+  "size": 25002177,
+  "notes": "المنصات في AWAM دوائر بالشعار فقط مثل نتفليكس. الوصف أضيق وحتى 3 أسطر. صف الأنواع يمكن إخفاؤه وتغيير مكانه من «تخصيص الرئيسية» في كل الأشكال.",
   "minSdk": 26,
   "abi": "armeabi-v7a"
 }
