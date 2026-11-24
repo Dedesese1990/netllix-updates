@@ -1,10 +1,10 @@
 {
-  "versionCode": 119,
-  "versionName": "1.0.0-build119",
-  "apk": "https://raw.githubusercontent.com/Dedesese1990/netllix-updates/main/apk/Netllix-build119-32bit.apk",
-  "sha256": "9d8262fe4f8eb258670ff72ae04abcb2b8455a891dd8c1f0542e6157bdfceebf",
-  "size": 25013533,
-  "notes": "«صوت من قناة أخرى»: بحث في القنوات، وعرض واضح لتأخير الصوت مع تأكيد التطبيق، وإزالة تعليق كان يحدث عند التنقل في اللوحة. بدء أسرع للتطبيق.",
+  "versionCode": 120,
+  "versionName": "1.0.0-build120",
+  "apk": "https://raw.githubusercontent.com/Dedesese1990/netllix-updates/main/apk/Netllix-build120-32bit.apk",
+  "sha256": "fd2d8d027a7713b81a9ed3ce1cb88b711bf1ffbb6cc3d3531b130899fb7f5c17",
+  "size": 25013753,
+  "notes": "إصلاح توقف التنقل في صف الأنواع وصف المنصات عند الوصول إلى آخره والرجوع.",
   "minSdk": 26,
   "abi": "armeabi-v7a"
 }
