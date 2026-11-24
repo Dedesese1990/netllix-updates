@@ -1,10 +1,10 @@
 {
-  "versionCode": 118,
-  "versionName": "1.0.0-build118",
-  "apk": "https://raw.githubusercontent.com/Dedesese1990/netllix-updates/main/apk/Netllix-build118-32bit.apk",
-  "sha256": "40a842e8dd3cb0e2c593c9823e58d9bac4dbf0114c332b90046750c98a5e9e1e",
-  "size": 25002177,
-  "notes": "المنصات في AWAM دوائر بالشعار فقط مثل نتفليكس. الوصف أضيق وحتى 3 أسطر. صف الأنواع يمكن إخفاؤه وتغيير مكانه من «تخصيص الرئيسية» في كل الأشكال.",
+  "versionCode": 119,
+  "versionName": "1.0.0-build119",
+  "apk": "https://raw.githubusercontent.com/Dedesese1990/netllix-updates/main/apk/Netllix-build119-32bit.apk",
+  "sha256": "9d8262fe4f8eb258670ff72ae04abcb2b8455a891dd8c1f0542e6157bdfceebf",
+  "size": 25013533,
+  "notes": "«صوت من قناة أخرى»: بحث في القنوات، وعرض واضح لتأخير الصوت مع تأكيد التطبيق، وإزالة تعليق كان يحدث عند التنقل في اللوحة. بدء أسرع للتطبيق.",
   "minSdk": 26,
   "abi": "armeabi-v7a"
 }
