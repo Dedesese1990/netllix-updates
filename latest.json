@@ -1,10 +1,10 @@
 {
-  "versionCode": 121,
-  "versionName": "1.0.0-build121",
-  "apk": "https://raw.githubusercontent.com/Dedesese1990/netllix-updates/main/apk/Netllix-build121-32bit.apk",
-  "sha256": "55ab695aa7ee8192441fd583741be6e555a46458aae25c6caaba36d5585814cd",
-  "size": 25032401,
-  "notes": "قوائم القنوات المباشرة أخف وأسرع، فتح التطبيق بلا انتظار، تنقّل أثبت بالريموت، الكيبورد يفتح بزر OK فقط، وإصلاحات في المشغّل والتسجيل والتحميل والنسخ الاحتياطية.",
+  "versionCode": 122,
+  "versionName": "1.0.0-build122",
+  "apk": "https://raw.githubusercontent.com/Dedesese1990/netllix-updates/main/apk/Netllix-build122-32bit.apk",
+  "sha256": "27c214e16f0669dead624fc6ea42372b4ee2ec817410e8232c3bc8b28efa1b58",
+  "size": 25034481,
+  "notes": "إصلاح تعليق الريموت في صف «حلقات جديدة» والصعود لشريط «الكل/أفلام/مسلسلات»، وكروت الحلقات الجديدة كبيرة كباقي الصفوف وبلا شريط التاريخ.",
   "minSdk": 26,
   "abi": "armeabi-v7a"
 }
