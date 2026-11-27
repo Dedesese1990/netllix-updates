@@ -1,10 +1,10 @@
 {
-  "versionCode": 120,
-  "versionName": "1.0.0-build120",
-  "apk": "https://raw.githubusercontent.com/Dedesese1990/netllix-updates/main/apk/Netllix-build120-32bit.apk",
-  "sha256": "fd2d8d027a7713b81a9ed3ce1cb88b711bf1ffbb6cc3d3531b130899fb7f5c17",
-  "size": 25013753,
-  "notes": "إصلاح توقف التنقل في صف الأنواع وصف المنصات عند الوصول إلى آخره والرجوع.",
+  "versionCode": 121,
+  "versionName": "1.0.0-build121",
+  "apk": "https://raw.githubusercontent.com/Dedesese1990/netllix-updates/main/apk/Netllix-build121-32bit.apk",
+  "sha256": "55ab695aa7ee8192441fd583741be6e555a46458aae25c6caaba36d5585814cd",
+  "size": 25032401,
+  "notes": "قوائم القنوات المباشرة أخف وأسرع، فتح التطبيق بلا انتظار، تنقّل أثبت بالريموت، الكيبورد يفتح بزر OK فقط، وإصلاحات في المشغّل والتسجيل والتحميل والنسخ الاحتياطية.",
   "minSdk": 26,
   "abi": "armeabi-v7a"
 }
