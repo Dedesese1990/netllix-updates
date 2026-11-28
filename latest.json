@@ -1,10 +1,10 @@
 {
-  "versionCode": 122,
-  "versionName": "1.0.0-build122",
-  "apk": "https://raw.githubusercontent.com/Dedesese1990/netllix-updates/main/apk/Netllix-build122-32bit.apk",
-  "sha256": "27c214e16f0669dead624fc6ea42372b4ee2ec817410e8232c3bc8b28efa1b58",
-  "size": 25034481,
-  "notes": "إصلاح تعليق الريموت في صف «حلقات جديدة» والصعود لشريط «الكل/أفلام/مسلسلات»، وكروت الحلقات الجديدة كبيرة كباقي الصفوف وبلا شريط التاريخ.",
+  "versionCode": 123,
+  "versionName": "1.0.0-build123",
+  "apk": "https://raw.githubusercontent.com/Dedesese1990/netllix-updates/main/apk/Netllix-build123-32bit.apk",
+  "sha256": "fac9c523680c5e874743475664b5aaecde7c40075745335a468a74a8b185dd3a",
+  "size": 24996034,
+  "notes": "إصلاح عاجل: خروج التطبيق عند «حلقات جديدة» و«أضيف مؤخرًا» وفتح المشغّل في النسخة 122.",
   "minSdk": 26,
   "abi": "armeabi-v7a"
 }
