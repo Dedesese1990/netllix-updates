@@ -1,10 +1,10 @@
 {
-  "versionCode": 123,
-  "versionName": "1.0.0-build123",
-  "apk": "https://raw.githubusercontent.com/Dedesese1990/netllix-updates/main/apk/Netllix-build123-32bit.apk",
-  "sha256": "fac9c523680c5e874743475664b5aaecde7c40075745335a468a74a8b185dd3a",
-  "size": 24996034,
-  "notes": "إصلاح عاجل: خروج التطبيق عند «حلقات جديدة» و«أضيف مؤخرًا» وفتح المشغّل في النسخة 122.",
+  "versionCode": 124,
+  "versionName": "1.0.0-build124",
+  "apk": "https://raw.githubusercontent.com/Dedesese1990/netllix-updates/main/apk/Netllix-build124-32bit.apk",
+  "sha256": "3e39d4f3be690bc8063508e863b133f9b1ce9314188a92ad2e74d9aa6ed9ce05",
+  "size": 24999198,
+  "notes": "إصلاح إضافة الإضافات من صفحة الحساب بروابط منسوخة من تليجرام، ورسالة أوضح عند حجب الإضافة.",
   "minSdk": 26,
   "abi": "armeabi-v7a"
 }
